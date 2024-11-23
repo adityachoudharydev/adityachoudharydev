@@ -6,4 +6,4 @@
 
 ## 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Choudhary-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/aditya-choudhary/](https://www.linkedin.com/in/aditya-choudhary-586047130/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Choudhary-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-choudhary-586047130/)
